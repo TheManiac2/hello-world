@@ -1,2 +1,3 @@
 # hello-world
-getting started
+
+I'm just a student starting from scratch
